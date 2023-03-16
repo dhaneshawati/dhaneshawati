@@ -1,3 +1,4 @@
+![logo](https://github.com/dhaneshawati/dhaneshawati/blob/main/fullstack.gif)
 <h1 align="center">Hi 👋, I'm Dhanesh Awati</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
